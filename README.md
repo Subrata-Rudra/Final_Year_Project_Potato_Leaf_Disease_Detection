@@ -24,7 +24,7 @@ The project is about detecting and classifying whether a potato leaf has early b
 5. Saving the model
 
 ### Model Serving FastAPI Repository is here
-https://github.com/Subrata-Rudra/ml-model-fast-api-production
+https://github.com/Subrata-Rudra/ML-Model-FastAPI-Server
 
 ### 🔴LIVE HOSTED WEBSITE LINK🔗
 https://potato-leaf-disease-detector.netlify.app/
